@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height='36' align='right' style='height:18rem;width:18rem' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/rubiks-cube-6366_512.gif?raw=true' alt='Revolving Rubik's Cube' />
+  <img height='36' align='right' style='height:15rem;width:15rem' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/rubiks-cube-6366_512.gif?raw=true' alt='Revolving Rubik's Cube' />
 </div>
 
 ### About Me
