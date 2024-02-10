@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <img height='36' align='right' style='height:18rem;width:18rem' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/rubiks-cube-6366_512.gif?raw=true' alt='Revolving Rubik's Cube' />
+</div>
+
 ### About Me
 - A passionate full stack software engineer from India 🇮🇳.
 - Focused on taking the red pill to problem solving 💊.
-- Open for freelance and part time projects 👨🏽‍💻.
+- Open for freelance and part time projects 👨🏽‍💻
 
 ### Reach out to me
 <a href='https://www.linkedin.com/in/kumar-ashu-tosh/' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/linkedin.png?raw=true' border='0' alt='Follow me on LinkedIn' /></a>
@@ -55,3 +59,5 @@ Here are some ideas to get you started:
 ### Credits
 - Icons under `images/` (except `fastapi-logo.png`, `flask-logo.png`) downloaded from [FLATICON](https://www.flaticon.com).
 - `fastapi-logo.png`, `flask-logo.png`, `cassandra-logo.png` taken from respective official websites.
+- Rubik's Cube GIF taken from [Pixabay](https://pixabay.com/gifs/rubiks-cube-cube-geometry-colorful-6366/).
+- Thanks to [Shilpa Chauhan](https://github.com/chauhanshilpa) for helping with HTML.
