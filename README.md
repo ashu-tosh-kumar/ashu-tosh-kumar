@@ -42,6 +42,9 @@ If you like my open source work, please feel free to send a Coffee!
 <a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/postgres-logo.png?raw=true' border='0' alt='PostgreSQL Icon' /></a>
 <a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/cassandra-logo.png?raw=true' border='0' alt='Cassandra Icon' /></a>
 
+### My GitHub Stats
+![Ashutosh Kumar](https://github-readme-stats.vercel.app/api?username=ashu-tosh-kumar&theme=rose_pine&show_icons=true)
+
 ### Credits
 - Icons under `images/` (except `fastapi-logo.png`, `flask-logo.png`) downloaded from [FLATICON](https://www.flaticon.com).
 - `fastapi-logo.png` taken from official Fast API [website](https://fastapi.tiangolo.com).
