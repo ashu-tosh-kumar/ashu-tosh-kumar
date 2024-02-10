@@ -29,22 +29,21 @@ If you like my open source work, please feel free to send a Coffee!
 <a href='https://ko-fi.com/D1D0O5TKC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ### Languages and Tools
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='Python Icon' />
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='JavaScript Icon' />
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='C++ Icon' />
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='WordPress Icon' />
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/python.png?raw=true' border='0' alt='Python Icon' /></a>
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/js.png?raw=true' border='0' alt='JavaScript Icon' /></a>
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/c-.png?raw=true' border='0' alt='C++ Icon' /></a>
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/wordpress-logo.png?raw=true' border='0' alt='WordPress Icon' /></a>
 
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='FastAPI Icon' />
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='Flask Icon' />
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='ReactJS Icon' />
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='NodeJS Icon' />
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/fastapi-logo.png?raw=true' border='0' alt='FastAPI Icon' /></a>
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/flask-logo.png?raw=true' border='0' alt='Flask Icon' /></a>
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/reactjs-logo.png?raw=true' border='0' alt='ReactJS Icon' /></a>
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/node-js-logo.png?raw=true' border='0' alt='NodeJS Icon' /></a>
 
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='PostgreSQL Icon' />
-<img height='36' style='border:0px;height:36px;' src='' border='0' alt='Cassandra Icon' />
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/postgres-logo.png?raw=true' border='0' alt='PostgreSQL Icon' /></a>
+<a><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/cassandra-logo.png?raw=true' border='0' alt='Cassandra Icon' /></a>
 
 ### Credits
-- <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
-- <a href="https://www.flaticon.com/free-icons/medium" title="medium icons">Medium icons created by Freepik - Flaticon</a>
-- <a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Pixel perfect - Flaticon</a>
-- <a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
-- <a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a>
+- Icons under `images/` (except `fastapi-logo.png`, `flask-logo.png`) downloaded from [FLATICON](https://www.flaticon.com).
+- `fastapi-logo.png` taken from official Fast API [website](https://fastapi.tiangolo.com).
+- `flask-logo.png` taken from official Flask [website](https://flask.palletsprojects.com/en/3.0.x/).
+- `cassandra-logo.png` taken from official Apache Cassandra [website](https://cassandra.apache.org/_/index.html).
