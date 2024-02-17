@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href='https://medium.com/@at-k' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/medium.png?raw=true' border='0' alt='Follow me on Medium' /></a>
 <a href='mailto:bracing08_airs@icloud.com' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/gmail.png?raw=true' border='0' alt='Send me an Email' /></a>
 
-<a href="https://www.buymeacoffee.com/ashutoshkumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ashutoshkumar&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/ashutoshkumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a latte&emoji=☕&slug=ashutoshkumar&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ### Languages, Frameworks and Databases
 <div style="white-space: nowrap;">
