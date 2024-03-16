@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 -->
 
 ### Credits
-- Icons under `images/` (except below) downloaded from [FLATICON](https://www.flaticon.com) or official sources.
+- Icons under `images/` downloaded from [FLATICON](https://www.flaticon.com) or official sources.
 - Rubik's Cube GIF taken from [Pixabay](https://pixabay.com/gifs/rubiks-cube-cube-geometry-colorful-6366/).
 - Thanks to [Shilpa Chauhan](https://github.com/chauhanshilpa) for helping with HTML.
