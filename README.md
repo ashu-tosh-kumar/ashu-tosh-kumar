@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <div style="white-space: nowrap;">
   <span>
     <a href='https://www.linkedin.com/in/kumar-ashu-tosh/' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/linkedin.png?raw=true' border='0' alt='Follow me on LinkedIn' /></a>
-    <a href='https://x.com/_atkumar' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/twitter-logo.png?raw=true' border='0' alt='Follow me on Twitter' /></a>
     <a href='mailto:bracing08_airs@icloud.com' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/gmail.png?raw=true' border='0' alt='Send me an Email' /></a>
   </span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
