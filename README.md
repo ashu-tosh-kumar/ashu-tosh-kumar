@@ -10,7 +10,7 @@
 
 ### About Me
 
-- Snr. Software Engineer with 4.8+ years of experience from India 🇮🇳.
+- Sr. Software Engineer with 4.8+ years of experience from India 🇮🇳.
 - Believe in taking the red pill to problem solving 💊.
 - Passionate about designing scalable backend systems & solving complex problems ䷂.
 - Movie buff & gardening enthusiast 🍿.
@@ -34,6 +34,9 @@
     <a href='https://hackernoon.com/u/atk' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/raw/main/images/hackernoon-logo.webp' alt='Visit my HackerNoon' /></a>
   </span>
 </div>
+<br />
+
+Check out my pinned repositories below for my featured projects!
 
 <!--
 ### My GitHub Stats
