@@ -12,7 +12,7 @@
 
 - Snr. Software Engineer with 4.8+ years of experience from India 🇮🇳.
 - Believe in taking the red pill to problem solving 💊.
-- Passionate about designing scalable backend systems and solving complex problems ䷂.
+- Passionate about designing scalable backend systems & solving complex problems ䷂.
 - Movie buff & gardening enthusiast 🍿.
 - [GitHub Gists](https://gist.github.com/ashu-tosh-kumar) 🧙🏽.
 
