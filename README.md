@@ -10,7 +10,7 @@
 
 ### About Me
 
-- Sr. Software Engineer with 5+ years of experience from India 🇮🇳.
+- Sr. Software Engineer with 5+ years of experience.
 - Believe in taking the red pill to problem solving 💊.
 - Passionate about designing scalable backend systems & solving complex problems ䷂.
 - Movie buff & gardening enthusiast 🍿.
