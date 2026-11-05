@@ -10,11 +10,10 @@
 
 ### About Me
 
-- Sr. Software Engineer with 5+ years of experience.
+- Sr. Software Engineer with 6+ years of experience.
 - Believe in taking the red pill to problem solving 💊.
 - Passionate about designing scalable backend systems & solving complex problems ䷂.
 - Movie buff & gardening enthusiast 🍿.
-- [GitHub Gists](https://gist.github.com/ashu-tosh-kumar) 🧙🏽.
 
 ### Tech Stack & Skills
 
@@ -29,6 +28,7 @@
   <span>
     <a href='https://www.linkedin.com/in/kumar-ashu-tosh/' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/linkedin.png?raw=true' alt='Find me on LinkedIn' /></a>
     <a href='mailto:bracing08_airs@icloud.com' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/gmail.png?raw=true' alt='Email me' /></a>
+    <a href='https://www.uncommonlydone.com' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/ucd.png' alt='Checkout my Website' /></a>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <a href='https://medium.com/@at-k' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/blob/main/images/medium.png?raw=true' alt='Follow on Medium' /></a>
     <a href='https://hackernoon.com/u/atk' ><img height='36' style='border:0px;height:36px;' src='https://github.com/ashu-tosh-kumar/ashu-tosh-kumar/raw/main/images/hackernoon-logo.webp' alt='Visit my HackerNoon' /></a>
